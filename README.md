@@ -1,4 +1,7 @@
 # Rotate-Mod
+
+### This repostitory has been merged into https://github.com/Exterrata/CVRMods
+
 A mod for chilloutvr to rotate the player
 
 ![Capture](https://user-images.githubusercontent.com/38149279/212393181-a0b180aa-8805-4a2a-b910-71e73e8e10ad.PNG)
